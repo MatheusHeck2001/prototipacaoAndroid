@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Hey! Messenger</string>
+    <string name="chats">CHATS</string>
+    <string name="calls">CALLS</string>
+    <string name="status">STATUS</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="hey">Hey! Messenger</string>
+    <string name="todoAddButton">Add message button</string>
+    <string name="pic1">profile pic 1</string>
+    <string name="pic2">profile pic 2</string>
+    <string name="pic3">profile pic 3</string>
+    <string name="pic4">profile pic 4</string>
+    <string name="pic5">profile pic 5</string>
+    <string name="pic6">profile pic 6</string>
+    <string name="pic7">profile pic 7</string>
+    <string name="pic9">profile pic 8</string>
+
+    <string name="rod">Rodjane Recrutadora de Devs</string>
+    <string name="textoRod">Pra me conquistar como recrutadora é só me mostrar um projeto pronto assim comigo que tu vai ganhar meu coração</string>
+    <string name="imageMessage">Photo</string>
+
+
+    <string name="contact1">Eva A. Vanburen</string>
+    <string name="contact2">Marilyn T. Finlayson</string>
+    <string name="contact3">Chris P. Manwaring</string>
+    <string name="contact4">Clara T. Shaw</string>
+    <string name="contact5">Gladys P. Gordon</string>
+    <string name="contact6">Michael B. Beaver</string>
+    <string name="contact7">Patricia J. Towell</string>
+    <string name="contact8">James E. Medina</string>
+
+    <string name="dateTime">date here</string>
+
+    <string name="typing">Typing…</string>
+
+    <string name="emoji">😀</string>
+
+    <string name="contentMe">My profile picture</string>
+    <string name="contentContact">My contact profile picture</string>
+    <string name="contentPic">Picture received</string>
+
+    <string name="sendMessage">Send message…</string>
+
+    <string name="addImage">Add image button</string>
+    <string name="send">Send message</string>
+
+
+
+
+
+
+
+    <string name="loremIpsum">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </string>
+
+
+</resources>
